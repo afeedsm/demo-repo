@@ -7,3 +7,5 @@ watch more tutorial on youtube
 
 ## local devolopment
 open index.html in your browser
+AFEED SM
+EVA
